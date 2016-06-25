@@ -1,2 +1,2 @@
 # blog-dingdaxia
-it's my blog
+it's my first blog!
