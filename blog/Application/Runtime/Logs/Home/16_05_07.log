@@ -1,0 +1,40 @@
+[ 2016-05-07T10:25:03+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002204s ]
+NOTIC: [8] Undefined index: echostr F:\phpStudy\WWW\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA F:\phpStudy\WWW\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 23 行.
+
+[ 2016-05-07T10:27:20+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Undefined index: echostr F:\phpStudy\WWW\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA F:\phpStudy\WWW\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 23 行.
+
+[ 2016-05-07T12:23:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: echostr F:\phpStudy\WWW\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA F:\phpStudy\WWW\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 23 行.
+
+[ 2016-05-07T12:23:43+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Undefined index: echostr F:\phpStudy\WWW\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 7 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA F:\phpStudy\WWW\thinkphp_3.2.3_full\Application\Home\Controller\IndexController.class.php 第 23 行.
+
